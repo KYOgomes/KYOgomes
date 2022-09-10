@@ -6,7 +6,7 @@
 - 👯 Busco trabalhar na area 
 - 📫 Para entrar em contato use: caioga2011@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: AMO sneakers 
+- ⚡ Fun fact: Gosto tênis 
 
 <div align="center">
   <a href="https://github.com/KYOgomes">
