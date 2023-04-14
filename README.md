@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou no início do curso e busco mais conhecimento de programação
-- 🌱 Estudando a linguagem C
+- 🌱 Estudando a linguagem JAVA, sabendo ( c , c++)
 - 👯 Busco trabalhar na area 
 - 📫 Para entrar em contato use: caioga2011@gmail.com
 - 😄 Pronouns: ele/dele
