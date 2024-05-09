@@ -12,7 +12,7 @@
 ![KYOgomes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KYOgomes&theme=gotham&hide_border=false)
 ![KYOgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
-  ##
+  
   
   <div> 
   <a href="https://www.youtube.com/channel/UCO0J-MmyIBlgt-lPxfNqYrA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
