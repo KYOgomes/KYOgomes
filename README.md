@@ -22,7 +22,9 @@
 
   
   <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/KYOgomes/AEDS2/blob/main/gifDarksouls.gif" alt="Dark souls...">
+  <div style="width: 100%;">
+    <img src="https://github.com/KYOgomes/AEDS2/blob/main/gifDarksouls.gif" alt="Dark souls..." style="width: 100%;">
+  </div>
 </div>
   
   <div> 
