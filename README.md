@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="width: 90%;">
     <img src="https://github.com/KYOgomes/AEDS2/blob/main/gifBerserkPixel.gif" alt="Dark souls..." style="width: 100%;">
-    <h3>____________________________________________________________________________________________________________</h3>
+    <h3>_______________________________________________________________________________________________________________</h3>
   </div>
 </div>
 <div style="display: flex; justify-content: center;">
