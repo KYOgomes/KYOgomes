@@ -19,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="KYOgomes's Top Languages" width="400" style="height: 200px;">
 </div>
 
-
-
   
   <div style="display: flex; justify-content: center;">
   <img src="https://github.com/KYOgomes/AEDS2/blob/main/gifDarksouls.gif" alt="Dark souls...">
