@@ -6,6 +6,7 @@
 - 👯 Buscando trabalhar na area
 - 🈳 https://www.linkedin.com/in/caio-gomes-393687299/
 - 📫 Para entrar em contato use: caioga2011@gmail.com
+- Proeficiência linguística: português, espanhol (médio), inglês (avançado, nível B2)
 
 
 <div style="display: flex; justify-content: center;">
