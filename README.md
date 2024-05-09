@@ -1,4 +1,4 @@
-### Olá, Eu sou Caio Gomes 👋
+###                                  Olá, Eu sou Caio Gomes 👋
 
 
 - 🔭 Graduando em Ciência da Computação | PUC MINAS |
@@ -9,7 +9,7 @@
 - Proeficiência linguística: português, espanhol (médio), inglês (avançado, nível B2)
 
 
-### STATS 🖥️
+###                                         STATS 🖥️
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
   <div style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" width="400" height="auto">
@@ -31,7 +31,7 @@
   </div>
 </div>
 
-  ### REDES SOCIAIS 📞
+  ###                                 REDES SOCIAIS 📞
   <div> 
   <a href="https://www.youtube.com/channel/UCO0J-MmyIBlgt-lPxfNqYrA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/caiooooo.gomes?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
