@@ -9,23 +9,18 @@
 - Proeficiência linguística: português, espanhol (médio), inglês (avançado, nível B2)
 
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
+  <div style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" width="400" height="auto">
   </div>
-</div>
-
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div>
+  <div style="margin-bottom: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KYOgomes&theme=gotham&hide_border=false" alt="KYOgomes's Streak" width="400" height="auto">
   </div>
-</div>
-
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="KYOgomes's Top Languages" width="400" style="height: 200px;">
   </div>
 </div>
+
 
 
   
