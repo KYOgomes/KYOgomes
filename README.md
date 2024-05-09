@@ -3,10 +3,10 @@
 
 - 🔭 Graduando em Ciência da Computação | PUC MINAS |
 - 🌱 Estudando a linguagem JAVA, sabendo ( c , c++, html/css/javaScript)
-- 👯 Busco trabalhar na area
+- 👯 Buscando trabalhar na area
 - 🈳 https://www.linkedin.com/in/caio-gomes-393687299/
 - 📫 Para entrar em contato use: caioga2011@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/KYOgomes">
