@@ -11,7 +11,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KYOgomes&theme=gotham&hide_border=false" alt="KYOgomes's Streak" width="450">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KYOgomes&theme=gotham&hide_border=false" alt="KYOgomes's Streak" width="410">
   </div>
 </div>
 
