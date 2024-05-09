@@ -11,7 +11,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="display: flex; justify-content: center; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" width="400" height="auto">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="KYOgomes's Top Languages" width="400" style="height: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="KYOgomes's Top Languages" width="400" style="height: 200px;">
   </div>
 </div>
 
