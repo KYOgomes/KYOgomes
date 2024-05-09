@@ -13,7 +13,10 @@
 ![KYOgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
   
-  ![Dark souls...](https://github.com/KYOgomes/AEDS2/blob/main/gifDarksouls.gif)
+  <div style="display: flex; justify-content: center;">
+  <img src="https://github.com/KYOgomes/AEDS2/blob/main/gifDarksouls.gif" alt="Dark souls...">
+</div>
+  
   <div> 
   <a href="https://www.youtube.com/channel/UCO0J-MmyIBlgt-lPxfNqYrA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/caiooooo.gomes?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
