@@ -8,11 +8,9 @@
 - 📫 Para entrar em contato use: caioga2011@gmail.com
 
 
-<div>
-<a href="https://github.com/KYOgomes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![KYOgomes's Stats](https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![KYOgomes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KYOgomes&theme=gotham&hide_border=false)
+![KYOgomes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
   ##
   
