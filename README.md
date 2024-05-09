@@ -5,8 +5,10 @@
   </div>
 </div>
 <div style="display: flex; justify-content: center;">
-  <div style="text-align: center;">
+  
+  <div align="center";">
     <h3>Olá, Eu sou Caio Gomes 👋</h3>
+  </div>
     <p>
       - 🔭 Graduando em Ciência da Computação | PUC MINAS |<br>
       - 🌱 Estudando a linguagem JAVA, sabendo ( c , c++, html/css/javaScript)<br>
@@ -18,7 +20,8 @@
   </div>
 </div>
 
-### STATS 🖥️
+<div align="center";">
+  <h3>STATS 🖥️</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
   <div style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" style="width: 500px;" style="height: 300px;">
@@ -31,8 +34,6 @@
   </div>
 </div>
 
-
-
   
   <div style="display: flex; justify-content: center;">
   <div style="width: 100%;">
@@ -40,7 +41,7 @@
   </div>
 </div>
 
-  ### REDES SOCIAIS 📞
+### REDES SOCIAIS 📞
   <div> 
   <a href="https://www.youtube.com/channel/UCO0J-MmyIBlgt-lPxfNqYrA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/caiooooo.gomes?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
