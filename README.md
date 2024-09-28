@@ -15,7 +15,8 @@
       - 👯 Buscando trabalhar na área<br>
       - 🈳 <a href="https://www.linkedin.com/in/caio-gomes-393687299/">LinkedIn</a><br>
       - 📫 Para entrar em contato use: caioga2011@gmail.com<br>
-      - Proeficiência linguística: português, espanhol (médio), inglês (avançado, nível B2)<br>
+      - 📕 Proeficiência linguística: português, espanhol (médio), inglês (avançado, nível B2)<br>
+      - 🏕️ Adoro a natureza, acampar, fazer trilhas e ver paisagen deslumbrantes<br>
     </p>
   </div>
 </div>
