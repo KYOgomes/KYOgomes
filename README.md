@@ -12,6 +12,7 @@
     <p>
       - 🔭 Graduando em Ciência da Computação | PUC MINAS |<br>
       - 🌱 conhecimentos em linguem C-like, java, html/css, Python, Dart/Flutter<br>
+      - 🔎 Atualmente estudando com foco em IA, Grafos e Python
       - 👯 Buscando trabalhar na área<br>
       - 🈳 <a href="https://www.linkedin.com/in/caio-gomes-393687299/">LinkedIn</a><br>
       - 📫 Para entrar em contato use: caioga2011@gmail.com<br>
