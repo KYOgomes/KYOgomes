@@ -11,7 +11,7 @@
   </div>
     <p>
       - 🔭 Graduando em Ciência da Computação | PUC MINAS |<br>
-      - 🌱 Estudando a linguagem JAVA, sabendo ( c , c++, html/css/javaScript)<br>
+      - 🌱 conhecimentos em linguem C-like, java, html/css, Python, Dart/Flutter<br>
       - 👯 Buscando trabalhar na área<br>
       - 🈳 <a href="https://www.linkedin.com/in/caio-gomes-393687299/">LinkedIn</a><br>
       - 📫 Para entrar em contato use: caioga2011@gmail.com<br>
