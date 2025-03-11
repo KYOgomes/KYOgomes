@@ -22,17 +22,27 @@
   </div>
 </div>
 
-<div align="center";">
+<div align="center">
   <h3>STATS 🖥️</h3>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-  <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" style="width: 400px;" style="height: 300px;">
-  </div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KYOgomes&theme=rose&locale=pt_BR" alt="GitHub Streak" /></a>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="KYOgomes's Top Languages" style="width: 400px;" style="height: 300px;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <div style="margin-bottom: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" 
+           alt="KYOgomes's Stats" 
+           style="width: 400px; height: 300px;">
+    </div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=KYOgomes&theme=rose&locale=pt_BR" 
+           alt="GitHub Streak" 
+           style="width: 400px; height: 300px;">
+    </a>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" 
+           alt="KYOgomes's Top Languages" 
+           style="width: 400px; height: 300px;">
+    </div>
   </div>
 </div>
+
 
   
   <div style="display: flex; justify-content: center;">
