@@ -28,9 +28,7 @@
   <div style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="KYOgomes's Stats" style="width: 400px;" style="height: 300px;">
   </div>
-  <div style="margin-bottom: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KYOgomes&theme=gotham&hide_border=false" alt="KYOgomes's Streak" style="width: 400px;" style="height: 300px;">
-  </div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KYOgomes&theme=rose&locale=pt_BR" alt="GitHub Streak" /></a>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="KYOgomes's Top Languages" style="width: 400px;" style="height: 300px;">
   </div>
