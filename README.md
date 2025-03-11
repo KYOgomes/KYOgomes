@@ -31,9 +31,6 @@
            style="width: 400px; height: 300px;">
     </div>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=KYOgomes&theme=rose&locale=pt_BR" 
-           alt="GitHub Streak" 
-           style="width: 400px; height: 300px;">
     </a>
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KYOgomes&theme=gotham&show_icons=true&hide_border=false&layout=compact" 
