@@ -47,8 +47,9 @@
     <img src="https://github.com/KYOgomes/AEDS2/blob/main/gifDarksouls.gif" alt="Dark souls..." style="width: 100%;">
   </div>
 </div>
-
+<div align="center">
 ### REDES SOCIAIS 📞
+<div>
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCO0J-MmyIBlgt-lPxfNqYrA/featured" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
